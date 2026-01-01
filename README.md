@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**anuragbabadev/anuragbabadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 Full-stack web development projects<br>Real-world web apps and open-source projects<br>Backend architecture and scalability<br>React,Node.js,and system design<br>HTML,CSS,JavaScript,and web basics<br>I enjoy turning ideas into working websites<br>
 
 
@@ -29,9 +20,3 @@ Full-stack web development projects<br>Real-world web apps and open-source proje
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
